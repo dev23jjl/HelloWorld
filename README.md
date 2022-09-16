@@ -3,8 +3,8 @@ These are various Java programs that were developed for a class called "Fundamen
 
 ## Programs
 
-- ### [Hello World!](https://github.com/dev23jjl/JavaPrograms/blob/main/Projects/HelloWorld.java)
-- ### [My Address](https://github.com/dev23jjl/JavaPrograms/blob/main/Projects/MyAddress.java)
-- ### [Skeleton Java Program](https://github.com/dev23jjl/JavaPrograms/blob/main/Projects/SkeletonCode.java)
+- ### [Hello World!](https://github.com/dev23jjl/JavaPrograms/blob/main/HelloWorld.java)
+- ### [My Address](https://github.com/dev23jjl/JavaPrograms/blob/main/MyAddress.java)
+- ### [Skeleton Java Program](https://github.com/dev23jjl/JavaPrograms/blob/main/SkeletonCode.java)
 
 Coded with ❤️ by [dev23jjl](https://github.com/dev23jjl)
