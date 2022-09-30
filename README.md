@@ -9,6 +9,7 @@ These are various Java programs that were developed for a class called "Fundamen
 - ### [Using Variables](https://github.com/dev23jjl/JavaPrograms/blob/main/UsingVariables.java)
 - ### [Java Variables and Mathematical Operations](https://github.com/dev23jjl/JavaPrograms/blob/main/JavaVariables.java)
 - ### [Math and Comparison Operators](https://github.com/dev23jjl/JavaPrograms/blob/main/MathOperations.java)
+- ### [Financial Operations using Math and Comparison Operators](https://github.com/dev23jjl/JavaPrograms/blob/main/FinancialOperations.java)
 - ### [Skeleton Java Program](https://github.com/dev23jjl/JavaPrograms/blob/main/SkeletonCode.java)
 
 Coded with ❤️ by [dev23jjl](https://github.com/dev23jjl)
