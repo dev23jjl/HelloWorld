@@ -4,7 +4,7 @@
  * 
  * Description: These are the basic required components of a simple Java program
  * The program declares and manipulates variables using assignment, mathematical, 
- *      and comparison operators and prints these variables to the screen.
+ *      and comparison operators and prints these variables to the terminal.
  *  
 ********************************************************************************* 
 */
@@ -37,6 +37,7 @@ public class MathOperations {
         taxAmt = grossPay * taxRate2;
         netPay = grossPay - taxAmt;
 
+        //Prints out the information
         System.out.println("hrsWorked = " + hrsWorked);
         System.out.println("payRate = $" + payRate);
         System.out.println("taxRate1 = " + taxRate1);
