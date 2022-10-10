@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 9/16/2022       HelloWorld.java 
+ *       James Johanningmeier     DLM: 9/16/2022       MyAddress.java 
  * 
  * Description: These are the basic required components of a simple Java program
  * The program outputs the address of the developer to the terminal using multiple 
