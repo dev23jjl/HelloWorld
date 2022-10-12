@@ -44,6 +44,7 @@ public class MyChoices {
                 System.out.println("Bohemian Rhapsody (by Queen),");
                 System.out.println("Livin' on a Prayer (by Bon Jovi), and");
                 System.out.println("Comfortably Numb (by Pink Floyd)");
+                
             } else {
                 
                 //Otherwise, this will be outputted instead of the code in the "if" block
