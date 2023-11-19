@@ -18,4 +18,4 @@ These are various Java programs that were developed for a class called "Fundamen
 - ### [📦 Creating Packages](https://github.com/dev23jjl/JavaPrograms/blob/main/CreatingPackages.md)
 - ### [🦴 Skeleton Java Program](https://github.com/dev23jjl/JavaPrograms/blob/main/SkeletonCode.java)
 
-Coded with ❤️ by [dev23jjl](https://github.com/dev23jjl)
+Programmed with ❤️ by [dev23jjl](https://github.com/dev23jjl)

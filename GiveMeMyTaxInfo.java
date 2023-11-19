@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 10/11/2022       GiveMeMyTaxInfo.java 
+ *       dev23jjl     DLM: 10/11/2022       GiveMeMyTaxInfo.java 
  * 
  * Description: these are the basic required components of a simple Java program
  *          this program creates character and string variables to hold

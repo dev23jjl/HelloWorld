@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 10/18/2022       MySizes.java 
+ *       dev23jjl     DLM: 10/18/2022       MySizes.java 
  * 
  * Description: These are the basic required components of a simple Java program
  *     This program is interactive and asks the user for their waist size. 

@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 9/14/2022       HelloWorld.java 
+ *       dev23jjl     DLM: 9/14/2022       HelloWorld.java 
  * 
  * Description: These are the basic required components of a simple Java program
  * This program outputs "HelloWorld!" to the terminal using the "println()" method

@@ -1,6 +1,6 @@
 # 📦 Creating Packages 
 #### 📽️ A Trip to the Movie Theater
-*Project by James Johanningmeier*
+*Project by [@dev23jjl](https://github.com/dev23jjl)*
 
 ![Image of an empty movie theater](https://images.unsplash.com/photo-1595769816263-9b910be24d5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1179&q=80 "Image of an empty movie theater")
 

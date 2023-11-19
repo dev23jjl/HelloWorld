@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 10/10/2022       TaxEscapeCalculate.java 
+ *       dev23jjl     DLM: 10/10/2022       TaxEscapeCalculate.java 
  * 
  * Description: These are the basic required components of a simple Java program
  *  This program computes the tax amount, gross pay, and net pay of an example

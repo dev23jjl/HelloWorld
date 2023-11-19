@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 10/11/2022       MyChoices.java 
+ *       dev23jjl     DLM: 10/11/2022       MyChoices.java 
  * 
  * Description: These are the basic required components of a simple Java program
  *  This program is interactive and asks the user their name and if they like 

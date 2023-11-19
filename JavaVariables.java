@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 9/22/2022       JavaVariables.java 
+ *       dev23jjl     DLM: 9/22/2022       JavaVariables.java 
  * 
  * Description: These are the basic required components of a simple Java program
  *  This program initializes five variables with descriptive names (that have 

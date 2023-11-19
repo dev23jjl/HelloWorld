@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 9/21/2022       UsingVariables.java 
+ *       dev23jjl     DLM: 9/21/2022       UsingVariables.java 
  * 
  * Description: These are the basic required components of a simple Java program
  * The program prints "Skeleton Code!" to the screen as a string literal, declares 

@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 9/15/2022       SkeletonCode.java 
+ *       dev23jjl     DLM: 9/15/2022       SkeletonCode.java 
  * 
  * Description: These are the basic required components of a simple Java program
  * This program outputs "Skeleton Code!" to the terminal using the "println()" method

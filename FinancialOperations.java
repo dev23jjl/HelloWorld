@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *    James Johanningmeier     DLM: 9/30/2022       FinancialOperations.java 
+ *    dev23jjl     DLM: 9/30/2022       FinancialOperations.java 
  * 
  * Description: These are the basic required components of a simple Java program
  * The program declares and manipulates variables using assignment, mathematical, 

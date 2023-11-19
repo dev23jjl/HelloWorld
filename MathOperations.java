@@ -1,6 +1,6 @@
 /* 
 *********************************************************************************
- *       James Johanningmeier     DLM: 9/28/2022       MathOperations.java 
+ *       dev23jjl    DLM: 9/28/2022       MathOperations.java 
  * 
  * Description: These are the basic required components of a simple Java program
  * The program declares and manipulates variables using assignment, mathematical, 
